@@ -5,14 +5,14 @@
 
 📊 **GitHub Stats**
 
-![Parwat's GitHub stats](https://github-readme-stats.vercel.app/api?username=parwat_singh&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parwat_singh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Parwat's GitHub stats](https://github-readme-stats.vercel.app/api?username=parwatsinghpanwar&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parwatsinghpanwarlayout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 📈 **GitHub Activity**
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=parwat_singh&theme=dracula)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Parwatsinghpanwar&theme=dracula)
 
 ---
 
