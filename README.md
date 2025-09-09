@@ -11,8 +11,8 @@
 ---
 
 📈 **GitHub Activity**
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Parwatsinghpanwar&theme=dracula)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Parwatsinghpanwar&theme=dracula)
 
 ---
 
