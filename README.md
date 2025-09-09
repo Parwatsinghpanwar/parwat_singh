@@ -1,27 +1,29 @@
-# parwat_singh
-# 👋 Hi, I'm Parwat Singh
-🚀 Frontend Developer | 🎨 UI/UX Enthusiast | 🤖 AI Explorer  
+### 👋 Hello, I'm Parwat Singh
+🚀 Frontend Developer | 💡 UI/UX Enthusiast | 🤖 AI + Web Integration Fan
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical)
+📊 **GitHub Stats**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=radical)
-
----
-
-## 🌱 Tech Stack
-![React](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![Parwat's GitHub stats](https://github-readme-stats.vercel.app/api?username=parwat_singh&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parwat_singh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 📈 Contribution Graph
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=<your-username>&theme=react-dark)
+📈 **GitHub Activity**
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=parwat_singh&theme=dracula)
 
 ---
 
-## 🤝 Connect With Me
+🛠️ **Tech Stack**
+- 🔹 ReactJS | JavaScript | HTML/CSS
+- 🔹 Python | SQL | PHP
+- 🔹 Figma | UI/UX | Git & GitHub
+
+---
+
+💬 **Let’s Connect!**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/your-link)](https://linkedin.com/in/your-link)
+[![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parwatpanwar8316@gmail.com)](mailto:parwatpanwar8316@gmail.com)
+
