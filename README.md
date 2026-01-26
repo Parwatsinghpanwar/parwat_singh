@@ -1,29 +1,9 @@
-### 👋 Hello, I'm Parwat Singh
-🚀 Frontend Developer | 💡 UI/UX Enthusiast | 🤖 AI + Web Integration Fan
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=parwatsinghpanwar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=parwatsinghpanwar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=parwatsinghpanwar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=parwatsinghpanwar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-📊 **GitHub Stats**
-
-![Parwat's GitHub stats](https://github-readme-stats.vercel.app/api?username=parwatsinghpanwar&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parwatsinghpanwarlayout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-📈 **GitHub Activity**
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Parwatsinghpanwar&theme=dracula)
-
-
----
-
-🛠️ **Tech Stack**
-- 🔹 ReactJS | JavaScript | HTML/CSS
-- 🔹 Python | SQL | PHP
-- 🔹 Figma | UI/UX | Git & GitHub
-
----
-
-💬 **Let’s Connect!**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/your-link)](https://linkedin.com/in/your-link)
-[![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parwatpanwar8316@gmail.com)](mailto:parwatpanwar8316@gmail.com)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
