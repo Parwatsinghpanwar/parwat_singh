@@ -24,22 +24,22 @@ I craft sleek UIs ⚡ with React & Tailwind, and build reliable backends 🔧 wi
 
 ---
 
-## 🏅 Google Developer Program Badges
+## 🏅 My Badges
 <p align="center">
   <a href="https://developers.google.com/profile/badges/playlists/solutions/antigravity-arcade/complete?u=117839312341045338217">
-    <img src="https://img.shields.io/badge/Antigravity%20Arcade-Complete-00FFB2?style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Antigravity%20Arcade-00FFB2?style=flat-square&logo=google&logoColor=white" width="150"/>
   </a>
   <a href="https://developers.google.com/profile/badges/playlists/solutions/race-condition/action?u=117839312341045338217">
-    <img src="https://img.shields.io/badge/Race%20Condition-In%20Action-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Race%20Condition-4285F4?style=flat-square&logo=google&logoColor=white" width="140"/>
   </a>
   <a href="https://developers.google.com/profile/badges/nvidia-developer?u=117839312341045338217">
-    <img src="https://img.shields.io/badge/NVIDIA-Developer-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NVIDIA%20Developer-76B900?style=flat-square&logo=nvidia&logoColor=white" width="150"/>
   </a>
   <a href="https://developers.google.com/profile/badges/events/io/2026/registered?u=117839312341045338217">
-    <img src="https://img.shields.io/badge/Google%20I%2FO%202026-Registered-EA4335?style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google%20I%2FO%202026-EA4335?style=flat-square&logo=google&logoColor=white" width="150"/>
   </a>
   <a href="https://developers.google.com/profile/badges/playlists/accelerated-machine-learning-with-google-cloud-and-nvidia?u=117839312341045338217">
-    <img src="https://img.shields.io/badge/Accelerated%20ML-Google%20Cloud%20%26%20NVIDIA-FBBC05?style=for-the-badge&logo=googlecloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Accelerated%20ML-FBBC05?style=flat-square&logo=googlecloud&logoColor=white" width="140"/>
   </a>
 </p>
 
